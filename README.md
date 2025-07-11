@@ -71,6 +71,6 @@ The script will:
 
 ## Inspired By:
 
-Course: [Hands-On Phishing](https://academy.simplycyber.io/l/pdp/hands-on-phishing)
-Author: [Tyler Rambsbey](https://www.linkedin.com/in/tyler-ramsbey-86221643/)
+- Course: [Hands-On Phishing](https://academy.simplycyber.io/l/pdp/hands-on-phishing)
+- Author: [Tyler Rambsbey](https://www.linkedin.com/in/tyler-ramsbey-86221643/)
 
