@@ -69,3 +69,8 @@ The script will:
 - ⚙️ Modify the `config.json` file with your SSL paths
 - 🚀 Start GoPhish on `https://yourdomain.com:3333`
 
+## Inspired By:
+
+Course: [Hands-On Phishing](https://academy.simplycyber.io/l/pdp/hands-on-phishing)
+Author: [Tyler Rambsbey](https://www.linkedin.com/in/tyler-ramsbey-86221643/)
+
